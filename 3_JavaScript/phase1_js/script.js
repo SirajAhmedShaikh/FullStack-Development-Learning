@@ -19,6 +19,30 @@
  multi-line comment
 */
 
+// 4:
+// Variable : A variable is a named box where you store a value. Later, you can use the name to get the value back, or change it.
+// var age = 25;
+// let name1 = "Aman";
+//JavaScript has three keywords to declare variables: var , let , and const .
+// const PI = 3.14159;
+// console.log(age)
+// console.log(name1)
+// console.log(PI)
+
+// Naming Rules
+// Must start with a letter, _ , or $ .
+// Can contain letters, digits, _ , $ .
+// Cannot start with a digit.
+// Cannot use reserved keywords ( let , if , function , etc.).
+// Case-sensitive: age and Age are different variables.
+// // Use camelCase for variables: firstName , totalAmount , userAge .
+// Use meaningful names: let a = 5 is bad. let studentCount = 5 is good.
+
+// Some Variable Good Practices
+
+
+
+
 
 
 
