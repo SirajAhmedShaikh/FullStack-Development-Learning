@@ -75,6 +75,54 @@
 // console.log(typeof "hello"); // "string"
 
 
+// 6:
+//Operators : persorm mathematical calculation
+
+// Arithmetic Operators
+
+// let a = 10, b = 3;
+// console.log(a + b); // 13 addition
+// console.log(a - b); // 7 subtraction
+// console.log(a * b); // 30 multiplication
+// console.log(a / b); // 3.333... division
+// console.log(a % b); // 1 modulus (remainder)
+// console.log(a ** b); // 1000 exponentiation (10^3)
+
+// Increment and Decrement
+
+// let x1 = 500;
+// x1++; // x is now 6 (post-increment)
+// ++x1; // x is now 7 (pre-increment)
+// x1--; // x is now 6
+// --x1; // x is now 5
+// console.log(x1);
+
+//  Assignment Operators
+
+// let x = 10;
+// x += 5; // x = x + 5 → 15
+// x -= 3; // x = x - 3 → 12
+// x *= 2; // x = x * 2 → 24
+// x /= 4; // x = x / 4 → 6
+// x %= 4; // x = x % 4 → 2
+
+// Comparison Operators
+
+// console.log(5 == "5"); // true (loose equality — converts types)
+// console.log(5 === "5"); // false (strict equality — checkstype AND value)
+// console.log(5 != "5"); // false
+// console.log(5 !== "5"); // true
+// console.log(5 > 3); // true
+// console.log(5 <= 5); // true
+
+//Logical Operator
+
+// let a = true, b = false;
+// console.log(a && b); // false AND: both must be true
+// console.log(a || b); // true OR: at least one must be tr
+// ue
+// console.log(!a); // false NOT: flips the value
+
 
 
 
